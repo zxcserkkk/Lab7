@@ -21,6 +21,7 @@
 **Конец**
 
 ### Блок-схема
+![Shema7.png](https://github.com/zxcserkkk/Lab7/blob/master/Shema7.png)
 
 ## Код
 
